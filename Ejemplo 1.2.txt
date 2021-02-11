@@ -1,0 +1,26 @@
+# include <stdio.h>
+
+ int   main ()  {
+   	
+   	
+    //int  farh , celsius, lower, upper,  step;
+	int  farh , celsius, lower, upper,  step;
+	
+	
+	lower = 0;
+	step = 20;
+	upper=300;
+	
+	
+	farh=lower; 
+	
+	
+	while (farh<= upper){
+		celsius = 5 * (farh -32)/9;
+		
+		printf  ( "%d \t = %6d \n", farh, celsius );
+		
+		farh= farh+ step; 
+	}
+	
+}
