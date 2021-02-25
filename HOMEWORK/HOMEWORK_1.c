@@ -44,12 +44,12 @@ char A;
         
         
         
- // while ((A = getchar));
-	   // {
-		//if (A == ' ')
-		//{
-	//		printf("_");
-		//} 
-	  //  }
+  while ((A = getchar));
+	    {
+		if (A == ' ')
+		{
+		printf("_");
+		} 
+	  }
  }
 }
