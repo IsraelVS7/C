@@ -1,3 +1,6 @@
+// ES NECESARIO CORRERLO EN CONJUNTO DEL PROGRMA LTH.H
+
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -202,17 +205,6 @@ entradaosalida (int pin, int estado)
 	  fprintf (reporte, " %d/%d/%d\n", actualdia, actualmes, actualyear);
 	}
 
-     /* diferencia =
-	(matrix[pin - 1][3] * 3600 + matrix[pin - 1][4] * 60 +
-	 matrix[pin - 1][5]) - (matrix[pin - 1][0] * 3600 + matrix[pin -
-								   1][1] *
-				60 + matrix[pin - 1][2]);
-      int horapin = matrix[pin - 1][0];
-      int minpin = matrix[pin - 1][1];
-      int segundopin = matrix[pin - 1][2];
-      "the user with pin <%d> entered at: <%d:%d:%d> the day: <%d/%d/%d> worked %d seconds\n",
-	pin, horapin, minpin, segundopin, actualdia, actualmes,
-	actualyear, diferencia);*/
       fclose (reporte);
       matrix[pin - 1][0] = -1;
       matrix[pin - 1][1] = -1;
