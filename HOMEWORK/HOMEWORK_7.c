@@ -1,5 +1,6 @@
 // ES NECESARIO CORRERLO EN CONJUNTO DEL PROGRMA LTH.H
 
+// Basado en codigo de Faryd Hyuga 
 
 #include <stdlib.h>
 #include <time.h>
