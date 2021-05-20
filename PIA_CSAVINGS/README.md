@@ -22,6 +22,22 @@ https://youtu.be/1IvNs34vSSc
 [Gdb Compiler Link ](http://https://www.onlinegdb.com/online_c_compiler "GDB COMPILER LINK ")
 
 
+
+---------------------------------------------------------------------------------------
+######Self-assessment
+•Complexity 1: it isn't is  so complex at all
+
+•functionality 2: I thkink it can apply in a lot of cases and it's useful.
+
+•code 3 its a clean clode, but doesnt brek.
+
+•storage 1: Is limitated.
+
+•documantation 3: The ortography in the code is good  but the video isn't at all.
+
+CF 10 out of 15
+
+
 #####References:
 - https://www.economicas.unsa.edu.ar/afinan/informacion_general/book/libro_dinero_y_ahorro.pdf
 - https://www.youtube.com/results?search_query=regresar+al+menu+princuoal+en+c
