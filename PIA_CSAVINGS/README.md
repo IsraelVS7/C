@@ -25,6 +25,7 @@ https://youtu.be/1IvNs34vSSc
 
 ---------------------------------------------------------------------------------------
 ######Self-assessment
+
 •Complexity 1: it isn't is  so complex at all
 
 •functionality 2: I thkink it can apply in a lot of cases and it's useful.
