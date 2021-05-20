@@ -34,9 +34,9 @@ https://youtu.be/1IvNs34vSSc
 
 •storage 1: Is limitated.
 
-•documantation 3: The ortography in the code is good  but the video isn't at all.
+•documantation 2: The ortography in the code is good  but the video isn't at all.
 
-CF 10 out of 15
+CF 9 out of 15
 
 
 #####References:
